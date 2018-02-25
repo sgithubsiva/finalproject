@@ -1,0 +1,28 @@
+--------Starting TC001_VerifyLoginWithInvalidecredentTest---------
+ clicked on signin by using object:[[ChromeDriver: chrome on XP (ecba1339c8a4ee73a93ce2db580c8a01)] -> css selector: .login]
+ Entered the  email address :test@gmai.comby using object is: [[ChromeDriver: chrome on XP (ecba1339c8a4ee73a93ce2db580c8a01)] -> css selector: #email]
+ Entered on password :Passwordby using the object is:[[ChromeDriver: chrome on XP (ecba1339c8a4ee73a93ce2db580c8a01)] -> css selector: #passwd]
+ clicked on submit button by using object:[[ChromeDriver: chrome on XP (ecba1339c8a4ee73a93ce2db580c8a01)] -> css selector: #SubmitLogin]
+---------Ending TC001_VerifyLoginWithInvalidecredentTest ---------
+--------Starting TC001_VerifyLoginWithInvalidecredentTest---------
+--------Starting TC001_VerifyLoginWithInvalidecredentTest---------
+ clicked on signin by using object:[[ChromeDriver: chrome on XP (3af76c2f2590e65c4cc8a68358117fe8)] -> css selector: .login]
+ Entered the  email address :test@gmai.comby using object is: [[ChromeDriver: chrome on XP (3af76c2f2590e65c4cc8a68358117fe8)] -> css selector: #email]
+ Entered on password :Passwordby using the object is:[[ChromeDriver: chrome on XP (3af76c2f2590e65c4cc8a68358117fe8)] -> css selector: #passwd]
+ clicked on submit button by using object:[[ChromeDriver: chrome on XP (3af76c2f2590e65c4cc8a68358117fe8)] -> css selector: #SubmitLogin]
+---------Ending TC001_VerifyLoginWithInvalidecredentTest ---------
+--------Starting TC001_VerifyLoginWithInvalidecredentTest---------
+ clicked on signin by using object:[[FirefoxDriver: firefox on XP (174582cf-5b56-47aa-97a8-0b217e9f1e32)] -> css selector: .login]
+ Entered the  email address :test@gmai.comby using object is: [[FirefoxDriver: firefox on XP (174582cf-5b56-47aa-97a8-0b217e9f1e32)] -> css selector: #email]
+ Entered on password :Passwordby using the object is:[[FirefoxDriver: firefox on XP (174582cf-5b56-47aa-97a8-0b217e9f1e32)] -> css selector: #passwd]
+ clicked on submit button by using object:[[FirefoxDriver: firefox on XP (174582cf-5b56-47aa-97a8-0b217e9f1e32)] -> css selector: #SubmitLogin]
+---------Ending TC001_VerifyLoginWithInvalidecredentTest ---------
+--------Starting TC001_VerifyLoginWithInvalidecredentTest---------
+ clicked on signin by using object:[[FirefoxDriver: firefox on XP (bd65e4b2-27f7-4304-926a-16fc10f6f853)] -> css selector: .login]
+ Entered the  email address :test@gmai.comby using object is: [[FirefoxDriver: firefox on XP (bd65e4b2-27f7-4304-926a-16fc10f6f853)] -> css selector: #email]
+--------Starting TC001_VerifyLoginWithInvalidecredentTest---------
+ clicked on signin by using object:[[FirefoxDriver: firefox on XP (8033da21-b61b-40e8-be6b-596691d4b1d3)] -> css selector: .login]
+ Entered the  email address :test@gmai.comby using object is: [[FirefoxDriver: firefox on XP (8033da21-b61b-40e8-be6b-596691d4b1d3)] -> css selector: #email]
+ Entered on password :Passwordby using the object is:[[FirefoxDriver: firefox on XP (8033da21-b61b-40e8-be6b-596691d4b1d3)] -> css selector: #passwd]
+ clicked on submit button by using object:[[FirefoxDriver: firefox on XP (8033da21-b61b-40e8-be6b-596691d4b1d3)] -> css selector: #SubmitLogin]
+---------Ending TC001_VerifyLoginWithInvalidecredentTest ---------
